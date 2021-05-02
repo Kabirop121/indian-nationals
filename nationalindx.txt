@@ -1,0 +1,23 @@
+AVAILABE KEYWORD FOR NATION.PY PROJECT 
+
+ENTER THE KEYWORD NAME IN ENTER PROMPT
+----------------------------------------------
+NATIONAL FRUIT                               |
+NATIONAL ANIMAL                              | 
+NATIONAL BIRD                                |
+NATIONAL AQUATIC ANIMAL                      |
+NATIONAL HERITAGE ANIMAL                     |
+NATIONAL SONG                                |
+NATIONAL CALENDAR                            |
+NATIONAL FLOWER                              |
+NATIONAL CURRENCY                            |
+NATIONAL TREE                                |
+NATIONAL REPTILE                             |     
+NATIONAL GAME                                |
+----------------------------------------------
+
+Thx for reading our code :3
+
+Join our discord :- https://discord.gg/wxdFevWDVb
+
+Email Kabir :- Timamsutuki@gmail.com

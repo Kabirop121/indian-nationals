@@ -1,3 +1,5 @@
+print("-------------WELCOME TO INDIA NATIONALS PROJECT---------------")
+
 value = input("Enter keyworld eg: bird: ")
 value2 = value.upper()
 value3 = "NATIONAL" + " " + value2
